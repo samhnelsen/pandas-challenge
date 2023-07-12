@@ -4,7 +4,7 @@ Summary
 
 As acting Chief Data Scientist for my city’s school district, I analyzed data across the 15 schools within the district with the goal of helping our school board and mayor make strategic decisions regarding future school budgets and priorities. 
 
-Using a csv for student data as well as a csv for school data, I looked at trends across a few key dimensions: school type, number of students, school budget, per student budget, average math score, average reading score, % passing math, % passing reading, and % overall passing. 
+Using a csv for student data as well as a csv for school data, I looked at trends across a few key dimensions: school type, number of students, school budget, per student budget, average math score, average reading score, % passing math, % passing reading, and % overall passing. You can find my analysis in the PyCitySchools folder under PyCitySchoolsAnalysis.ipynb
 
 Findings
 
